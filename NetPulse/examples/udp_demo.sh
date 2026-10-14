@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+set -euo pipefail
+./build/netpulse server --protocol udp --host 127.0.0.1 --port 9001

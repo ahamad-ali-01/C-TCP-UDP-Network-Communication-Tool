@@ -1,0 +1,10 @@
+build/
+build-sanitize/
+*.csv
+*.json.tmp
+*.log
+results/*.json
+results/*.csv
+.idea/
+.vscode/
+.DS_Store

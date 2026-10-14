@@ -1,0 +1,5 @@
+{
+  "description": "Reference settings only; current CLI accepts equivalent flags.",
+  "server": {"host": "127.0.0.1", "tcp_port": 9000, "udp_port": 9001},
+  "benchmark": {"count": 1000, "payload_size_bytes": 512, "timeout_ms": 1000, "interval_ms": 0}
+}
